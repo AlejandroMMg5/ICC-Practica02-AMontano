@@ -8,7 +8,8 @@ utiliza la clase Fecha para trabajar con fechas y la clase TiempoDeInversion par
 
 ## Estructura del proyecto
 README.md
-AMontano/practica02/src/icc/ Fecha.java TiempoDeInversion.java
+AMontano/practica02/src/icc/ - Fecha.java 
+                             - TiempoDeInversion.java
 
 ## Forma de compilar y ejecutar
 
@@ -24,4 +25,4 @@ java TiempoDeInversion
 - Versión de Java utilizada: openjdk version "27-ea" 2026-09-15
 - La documentación es ultilizando JavaDoc
 - Materia: Introducción a Ciencias de la Computación (ICC).
--Institución: Facultad de Ciencias, UNAM.
+- Institución: Facultad de Ciencias, UNAM.
