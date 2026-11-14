@@ -8,16 +8,8 @@ utiliza la clase Fecha para trabajar con fechas y la clase TiempoDeInversion par
 
 ## Estructura del proyecto
 
-Proyecto/
-│
-├── src/
-│   ├── Fecha.java
-│   └── TiempoDeInversion.java
-│
-├── docs/
-│   └── Documentación generada con JavaDoc
-│
-└── README.md
+AMontano/practica02/src/icc/ Fecha.java TiempoDeInversion.java
+README.md
 
 ## Forma de compilar y ejecutar
 
