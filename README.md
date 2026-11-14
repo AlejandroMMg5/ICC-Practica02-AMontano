@@ -7,9 +7,8 @@ El proyecto permite calcular el monto final de una inversión considerando el ca
 utiliza la clase Fecha para trabajar con fechas y la clase TiempoDeInversion para solicitar los datos y realizar los cálculos.
 
 ## Estructura del proyecto
-
-AMontano/practica02/src/icc/ Fecha.java TiempoDeInversion.java
 README.md
+AMontano/practica02/src/icc/ Fecha.java TiempoDeInversion.java
 
 ## Forma de compilar y ejecutar
 
